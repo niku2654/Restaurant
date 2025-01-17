@@ -1,8 +1,8 @@
-# React + Vite
+Restaurant Web App (React)
+This is a modern, interactive Restaurant Web App built using React. The app provides a seamless user experience for browsing the menu, placing orders, making reservations, and leaving feedback. It is designed to help restaurants manage customer interactions in an efficient and visually appealing way.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used:
+1)Frontend: React, React Router, JSX, CSS, SCSS
+2)State Management: React Context API / Redux (optional)
+3)Responsive Design: Styled with Flexbox and CSS Grid
+4)Deployment: Deployed via Netlify, Vercel, or GitHub Pages (optional)
